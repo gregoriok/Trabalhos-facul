@@ -1,0 +1,29 @@
+leia
+inteiro real caracter logico texto
+escreva
+leia
+<-
++ -
+* /
+%
+^
+= > < >= <= <>
+nao e ou xou nou ne
+se entao senao fimse
+para de ate faca passo fimpara
+inicio
+fim fimrepita fimenquanto fimescolha
+enquanto
+repita
+escolha caso outro
+( ) [ ]
+raiz log analise troca var constante : principal retorne pausa espera escreval interrompa continua aleatorio arquivo verdadeiro falso
+@_teste @abcdefghij @_antonio198 @19283847567 @1928anshdfg @jorginho29 @1029384756 @__________
+1.2 00000.00 12345.67 1 123456 12345
+InTeIrO
+;
+@abcDefg
+teste
+54321
+54321.76
+@_teste_

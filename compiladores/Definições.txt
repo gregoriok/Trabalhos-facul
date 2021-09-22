@@ -1,0 +1,53 @@
+Separar as palavras por espaço único, inclusive a vírgula, utilizar como no exemplo:
+palavra , palavra .
+Não utilizar espaço ou enter no final do arquivo.
+Digite o texto a ser analisado no arquivo entrada.txt, a saída irá para o fonte.txt e o log para o log.txt.
+Definições da analise:
+1	vírgula
+3	repetição com controle de iteração
+7	Tipo de dado
+25	saída
+28	entrada
+29	atribuição
+30	op. Aritm(Preced. 4)
+31	op. Aritm(Preced. 3)
+32	op. Aritm(Preced. 2)
+33	op. Aritm(Preced. 1)
+34	operadores relacionais
+35	operadores relacionais
+36	token de negação
+39	operadores lógicos
+44	desvio condicional
+48	desvio condicional
+57	def. de inicio de bloco
+59	def. de fim de bloco
+64	rep. (teste no inicio)
+69	estrutura condicional aninhada
+72	p1
+73	f1
+74	p2
+75	f2
+79	outros tokens
+132	variável
+133	variável
+134	variável
+135	variável
+136	variável
+137	variável
+138	variável
+139	variável
+140	variável
+141	variável
+142	numeral
+143	numeral
+144	numeral
+145	numeral
+146	numeral
+147	numeral
+148	numeral
+150	numeral com ponto flutuante
+151	numeral com ponto flutuante
+152	numeral com ponto flutuante
+153	numeral com ponto flutuante
+154	ERRO: Erro de Transição
+155	ERRO: Não pertence a linguagem
