@@ -1,0 +1,66 @@
+string and == ;
+int
+$ababab
+$ablkhjqyza
+1234567.1234
+123.12
+1.1
+159
+erro
+in and bool
+.
+int double char
+bool
+string print
+input = + -
+* / % ^ ==
+> < >= <= !=
+not and or
+xor nor
+nand if else
+elseif
+for
+to do step
+begin end
+while switch
+case ( ) [ ] root
+logarithm parse swap
+var const :
+main return pause rest
+uses endl cr break continue
+random file true false . ;
+!
+
+
+int double char bool string
+print
+input
+=
++ -
+* /
+%
+^
+==
+>
+<
+>=
+<=
+!=
+not and or xor nor nand
+if else elseif
+for
+to do step
+begin end
+while
+switch case
+( )
+[ ]
+root logarithm
+parse swap var const
+:
+main return pause rest
+uses endl cr
+break continue
+random file
+true false
+. ; !

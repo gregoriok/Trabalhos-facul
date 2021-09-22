@@ -1,0 +1,66 @@
+string = 7 and = 39 == = 35 ; = 79
+int = 7
+$ababab = 137
+$ablkhjqyza = 141
+1234567.1234 = 153
+123.12 = 151
+1.1 = 150
+159 = 144
+erro = 154
+in = 155 and = 39 bool = 7
+. = 79
+int = 7 double = 7 char = 7
+bool = 7
+string = 7 print = 25
+input = 28 = = 29 + = 30 - = 30
+* = 31 / = 31 % = 32 ^ = 33 == = 35
+> = 34 < = 34 >= = 35 <= = 35 != = 35
+not = 39 and = 39 or = 39
+xor = 39 nor = 39
+nand = 39 if = 44 else = 48
+elseif = 44
+for = 3
+to = 3 do = 3 step = 3
+begin = 57 end = 59
+while = 64 switch = 69
+case = 69 ( = 72 ) = 73 [ = 74 ] = 75 root = 79
+logarithm = 79 parse = 79 swap = 79
+var = 79 const = 79 : = 79
+main = 79 return = 79 pause = 79 rest = 79
+uses = 79 endl = 79 cr = 79 break = 79 continue = 79
+random = 79 file = 79 true = 79 false = 79 . = 79 ; = 79
+! = 36
+ = 155
+ = 155
+int = 7 double = 7 char = 7 bool = 7 string = 7
+print = 25
+input = 28
+= = 29
++ = 30 - = 30
+* = 31 / = 31
+% = 32
+^ = 33
+== = 35
+> = 34
+< = 34
+>= = 35
+<= = 35
+!= = 35
+not = 39 and = 39 or = 39 xor = 39 nor = 39 nand = 39
+if = 44 else = 48 elseif = 44
+for = 3
+to = 3 do = 3 step = 3
+begin = 57 end = 59
+while = 64
+switch = 69 case = 69
+( = 72 ) = 73
+[ = 74 ] = 75
+root = 79 logarithm = 79
+parse = 79 swap = 79 var = 79 const = 79
+: = 79
+main = 79 return = 79 pause = 79 rest = 79
+uses = 79 endl = 79 cr = 79
+break = 79 continue = 79
+random = 79 file = 79
+true = 79 false = 79
+. = 79 ; = 79 ! = 36
